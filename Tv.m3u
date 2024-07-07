@@ -1,0 +1,1409 @@
+#EXTM3U url-tvg="http://iptv-content.rv77.pw/epg.xml.gz"
+#EXTINF:0,Первый HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/128/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Россия 1 HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/129/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НТВ HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/253/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НТВ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5097/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НТВ Мир
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5633/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,РЕН HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/200/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,РЕН ТВ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5106/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3526/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/301/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5001/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3571/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ4
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/364/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ4 (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/7051/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНТ4 (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3650/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3187/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3534/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС International
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5297/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС Love
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5253/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС Love (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3485/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС Love (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/4356/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Суббота HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6855/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Суббота
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6856/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Суббота (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6857/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятый Канал
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/338/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятый Канал (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1735/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятый Канал (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1775/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВЦ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/334/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВЦ (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1710/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВЦ (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1740/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВЦ (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3525/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВЦ International
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1982/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Домашний
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/291/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Домашний (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3528/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятница HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/213/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятница
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5300/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятница (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1716/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятница (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1746/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Пятница (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3530/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Че
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/363/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Че (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3490/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Че (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3758/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Че (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5081/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВ3 HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1519/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВ3
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/336/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВ3 (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1715/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВ3 (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1745/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТВ3 (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3529/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/138/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1139/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1718/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/1748/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/3532/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир 24
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5129/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Новый мир
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6737/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,360° HD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6791/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,8 канал
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5288/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ОТР
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5501/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Перец International
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6711/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Продвижение
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6759/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ретро ТВ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6722/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Сарафан
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5332/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Союз
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5047/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Спас Тв
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5133/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Телеканал Театр
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5116/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Телекафе
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5323/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Успех
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/6853/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ю ТВ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5142/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ю ТВ (+2)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/4346/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ю ТВ (+4)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5510/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ю ТВ (+7)
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/5512/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,КРИК-ТВ
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/309/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Москва Доверие
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/20321/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,HOME 4K
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/17445/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,INSIGHT UHD
+#EXTGRP:RU Общероссийские
+https://ch01.spr24.net/383/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,12 Канал (Омск)
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/6680/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,БСТ HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/6657/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Грозный
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/5691/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ДОН 24
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/6760/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,КРЫМ 24
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/5010/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/6665/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТРК HD (Сочи)
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/480/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНВ Планета
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/5500/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Югра
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/6708/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,26 регион HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/22951/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,АТВ Ставрополь
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20319/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Башкортостан ТВ HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23538/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Белгород 24
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20341/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ВМЕСТЕ-РФ
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23555/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Время Н
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23426/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Вся Уфа
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/24000/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Томское время
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23780/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Катунь 24
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23983/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Курай HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23923/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Курай TV
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23905/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Липецкое время
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20798/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Матур ТВ
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23423/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Наша сибирь 4K
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23430/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НВК Саха HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23666/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Первый городской (Омск)
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/22813/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Тамыр
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20283/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТНВ Татарстан
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20247/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Тномер
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20113/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Хузур
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/20302/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Юрган
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/23462/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Вестник Надыма
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/3430/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Осетия-Ирыстон
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/3644/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мегаполис HD
+#EXTGRP:RU Региональные
+https://ch01.spr24.net/7332/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Россия-24
+#EXTGRP:RU Новости
+https://ch01.spr24.net/302/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Euronews Россия
+#EXTGRP:RU Новости
+https://ch01.spr24.net/325/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,RT HD
+#EXTGRP:RU Новости
+https://ch01.spr24.net/105/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,RT Doc HD
+#EXTGRP:RU Новости
+https://ch01.spr24.net/214/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Москва 24
+#EXTGRP:RU Новости
+https://ch01.spr24.net/295/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,360° Новости HD
+#EXTGRP:RU Новости
+https://ch01.spr24.net/6790/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,РБК HD
+#EXTGRP:RU Новости
+https://ch01.spr24.net/1316/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,РБК-ТВ
+#EXTGRP:RU Новости
+https://ch01.spr24.net/316/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,RTVi
+#EXTGRP:RU Новости
+https://ch01.spr24.net/5673/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Большая Азия
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/6452/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/267/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Discovery Science HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/303/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ID Xtra HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/149/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,National Geographic HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/203/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,National Geographic
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/5493/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20162/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/124/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,TERRA HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/1493/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Animal Planet HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/254/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,В мире животных HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/219/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Моя Планета
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/168/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/208/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Приключения HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/136/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Travel Channel HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/261/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Russian Travel Guide HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/125/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,History HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/259/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Planet
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/263/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju History HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20491/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju Nature HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/23963/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,DocuBox HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/332/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Дикая охота HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/327/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/326/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Наука
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20240/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,История
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/342/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Домашние Животные
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/5452/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Зоопарк
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/5270/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Galaxy TV
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/6864/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Зоо ТВ
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20386/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир Вокруг HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/23740/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Нано ТВ HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/23769/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Загородный int HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/23684/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/6658/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Fashion TV 4K
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/17091/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Центральное телевидение
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/1295/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Живи активно
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/4089/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Big Planet HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/7047/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Big Planet
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/5877/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,E TV
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/1221/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Gagsnetwork
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/4996/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Experiment HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20783/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Открытия HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20785/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Мегамир HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20898/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Микромир HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20896/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Макромир HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20897/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS CRIME HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20776/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Travel HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20866/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Docu. HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20873/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Stories HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20875/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Mayday HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20880/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Memory HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20858/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Game HD
+#EXTGRP:RU Познавательные
+https://ch01.spr24.net/20864/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,START Air HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/5770/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,START World HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/5771/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Кино UHD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/17372/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Сериал UHD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/17728/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Комедия
+#EXTGRP:RU Кино
+https://ch01.spr24.net/5089/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Premiere
+#EXTGRP:RU Кино
+https://ch01.spr24.net/104/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Megahit
+#EXTGRP:RU Кино
+https://ch01.spr24.net/103/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Comedy
+#EXTGRP:RU Кино
+https://ch01.spr24.net/102/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Serial
+#EXTGRP:RU Кино
+https://ch01.spr24.net/109/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju TV1000
+#EXTGRP:RU Кино
+https://ch01.spr24.net/320/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju TV1000 Action
+#EXTGRP:RU Кино
+https://ch01.spr24.net/319/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju TV1000 Русское
+#EXTGRP:RU Кино
+https://ch01.spr24.net/318/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:RU Кино
+https://ch01.spr24.net/430/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НСТ
+#EXTGRP:RU Кино
+https://ch01.spr24.net/312/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Премиальное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/121/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/122/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Шокирующее HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/119/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Страшное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/218/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,КИНО ТВ
+#EXTGRP:RU Кино
+https://ch01.spr24.net/147/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Комедийное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/120/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Наше Крутое HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/123/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Русский роман
+#EXTGRP:RU Кино
+https://ch01.spr24.net/142/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/108/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Дом Кино
+#EXTGRP:RU Кино
+https://ch01.spr24.net/333/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Любимое HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/139/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Любимое Кино
+#EXTGRP:RU Кино
+https://ch01.spr24.net/335/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Русский бестселлер
+#EXTGRP:RU Кино
+https://ch01.spr24.net/276/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:RU Кино
+https://ch01.spr24.net/294/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Иллюзион +
+#EXTGRP:RU Кино
+https://ch01.spr24.net/293/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Феникс Плюс Кино
+#EXTGRP:RU Кино
+https://ch01.spr24.net/350/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,.red
+#EXTGRP:RU Кино
+https://ch01.spr24.net/140/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Amedia Hit
+#EXTGRP:RU Кино
+https://ch01.spr24.net/270/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Amedia Premium
+#EXTGRP:RU Кино
+https://ch01.spr24.net/258/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,A1
+#EXTGRP:RU Кино
+https://ch01.spr24.net/268/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Epic Drama HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/4992/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Fox HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/101/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Fox Life HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/207/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Comedy Central
+#EXTGRP:RU Кино
+https://ch01.spr24.net/220/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,КИНЕКО HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/1350/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,САПФИР HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/6714/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Bollywood HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/251/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Hollywood HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/127/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,TV XXI
+#EXTGRP:RU Кино
+https://ch01.spr24.net/310/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НТВ-ХИТ
+#EXTGRP:RU Кино
+https://ch01.spr24.net/328/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,НТВ Сериал
+#EXTGRP:RU Кино
+https://ch01.spr24.net/347/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мир Сериала
+#EXTGRP:RU Кино
+https://ch01.spr24.net/5264/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,FilmBox
+#EXTGRP:RU Кино
+https://ch01.spr24.net/6888/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Filmbox Arthouse
+#EXTGRP:RU Кино
+https://ch01.spr24.net/6887/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,FAN HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/23562/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,О!Кино
+#EXTGRP:RU Кино
+https://ch01.spr24.net/394/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:RU Кино
+https://ch01.spr24.net/429/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20799/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20800/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Блокбастер HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20801/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20802/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Хит HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20803/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Про Любовь HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20804/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Камеди HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20805/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20806/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Романтичное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/419/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Криминальное HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20808/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,КиноСат
+#EXTGRP:RU Кино
+https://ch01.spr24.net/425/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Cinema
+#EXTGRP:RU Кино
+https://ch01.spr24.net/22223/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Plan B
+#EXTGRP:RU Кино
+https://ch01.spr24.net/484/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,FlixSnip
+#EXTGRP:RU Кино
+https://ch01.spr24.net/1263/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Trash HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/4830/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Detective Jam HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/7311/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,KinoJam 1 HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/7008/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,KinoJam 2 HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/7009/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,KION ХИТ
+#EXTGRP:RU Кино
+https://ch01.spr24.net/7310/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU ACTION HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20810/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU CATASTROPHE HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20811/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU CINEMA HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20812/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU CINEMA+ HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20832/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU COMEDY HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20813/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU COMEDY h264
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20841/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU FANTASTIC HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20814/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU FILMYSTIC HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20815/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU HISTORY HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20816/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU KINORATING HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20817/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU MARVEL HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20818/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU PREMIERE HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20819/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU ROMANTIC HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20820/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU ROMANTIC h264
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20891/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU RUSSIAN HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20821/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU STARS HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20833/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU VHS HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20822/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU МУЛЬТСЕРИАЛ HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20828/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20836/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU СССР HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20830/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU MEDIA HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20831/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Ultra 4K
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20835/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 1 HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20823/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 2 HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20824/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU КИНОЗАЛ PREMIERE 3 HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20825/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Reality HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20826/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Survival HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20838/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20845/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU TruMotion HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20847/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Premiere Ultra 4K
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20848/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Franchise HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20851/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Hybrid HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20853/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Gangster HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20856/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Oscar HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20857/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Serial HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20860/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Spy HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20865/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Western HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20867/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Zombie HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20868/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Cyber HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20869/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Ghost HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20874/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Fantasy HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20876/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Premiere 4K
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20877/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Serial 4K
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20878/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Remast 4K
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20879/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Боевик
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20703/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Боевик classic
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20704/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Комедия classic
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20705/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Семейный 1
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20706/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Семейный 2
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20707/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Фобия
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20709/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax История
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20710/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Катастрофа
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20711/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Комедия
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20713/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Криминал
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20714/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Кунг-фу
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20715/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Нуар
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20717/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Приключения
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20719/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Роскино
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20720/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Скорость
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20721/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Стивен Кинг
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20723/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Супергерои
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20724/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Триллер
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20725/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Синематограф
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20726/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax UFO
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20727/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax translation HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20895/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Ужасы classic
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20728/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Ужасы
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20729/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Драма U.S.S.R
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20732/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Комедия U.S.S.R
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20733/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Вестерн
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20734/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Затмение
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20735/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Крутые 90e
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20736/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Грайндхаус
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20738/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Newfilm 1
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20739/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Newfilm 2
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20740/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Newfilm 3
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20741/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Newfilm RU
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20742/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Ситком
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20745/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Мифология
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20757/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Приключения U.S.S.R
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20760/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Celebrity HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20861/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Classic HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20780/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Драма HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20782/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Flip UHD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20852/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax OldSchool HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20784/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS PRISONS HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20777/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS YOUNG BLOOD HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20779/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS MAGIC HD
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20786/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20900/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Сделано в СССР
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20902/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Ужасы
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20904/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20905/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Драмы
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20907/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Первый женский
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20908/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Вестерн
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20909/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Asia
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20913/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Семейный
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20915/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k КиноФраншизы
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20926/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Комедия
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20927/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Боевик
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20928/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Фэнтези
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20931/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Kинодети Cсср
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20933/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Приключения
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20903/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Путешествие
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20917/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Звериный мир
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20922/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Космомир
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20923/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Истории во времени
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20924/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K АвтоМастер
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20925/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Gamefilm
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20918/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Relax камин
+#EXTGRP:RU Кино
+https://ch01.spr24.net/20920/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Cartoonito
+#EXTGRP:RU Детские
+https://ch01.spr24.net/306/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мульт HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/141/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мульт
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5161/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Рыжий
+#EXTGRP:RU Детские
+https://ch01.spr24.net/6867/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Уникум
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5275/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Детский мир
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5276/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Мультиландия
+#EXTGRP:RU Детские
+https://ch01.spr24.net/304/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,В гостях у сказки
+#EXTGRP:RU Детские
+https://ch01.spr24.net/330/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СТС Kids HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/362/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Cartoon Network
+#EXTGRP:RU Детские
+https://ch01.spr24.net/6859/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,СОЛНЦЕ
+#EXTGRP:RU Детские
+https://ch01.spr24.net/307/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ani
+#EXTGRP:RU Детские
+https://ch01.spr24.net/343/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/135/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Nick Jr.
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5494/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Jim Jam
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5342/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,2x2
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5245/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,O!
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5315/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Da Vinci Kids
+#EXTGRP:RU Детские
+https://ch01.spr24.net/317/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Ducktv
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5726/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Смайлик ТВ
+#EXTGRP:RU Детские
+https://ch01.spr24.net/4350/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Чижик
+#EXTGRP:RU Детские
+https://ch01.spr24.net/7309/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Лева HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5807/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Family Jam HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/7312/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Lolo TV
+#EXTGRP:RU Детские
+https://ch01.spr24.net/23715/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ТипТоп HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/5818/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Tom and Jerry
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20747/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Мультфильм U.S.S.R
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20849/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Сказки U.S.S.R
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20750/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Walt Disney
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20753/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Honey HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20755/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Smile HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20759/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS ANIMATED HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20775/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MS TOONS HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20778/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Little HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20890/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Kids HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20827/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Kids 4K
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20850/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Kids+ HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20834/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX M.Serial HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20859/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Anime HD
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20855/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Мультляндия
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20914/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Мультимир
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20919/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Anime
+#EXTGRP:RU Детские
+https://ch01.spr24.net/20932/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BRIDGE TV HITS
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/5662/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/3126/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Жара HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/17734/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Trace Urban HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20960/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MTV Live HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/134/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MTV 90s
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/5631/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Classic Music HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/5604/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Classic Music
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/7276/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,VIVA HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/479/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax Relax
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20761/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MiniMax World Hits
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20762/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Music 4K
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20862/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Relax 4K
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20863/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX RU.RAP HD
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20889/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K World Music
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20901/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Concert
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20911/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Korean music
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20916/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Retro Hits Channel
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20921/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Bollywood music
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20929/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Russian music
+#EXTGRP:RU Музыка
+https://ch01.spr24.net/20930/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Матч! HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/255/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,viju+ Sport HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/5244/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/264/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/265/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/933/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/934/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Конный мир HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/5689/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Fast and Fun Box HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/240/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,FightBox HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/241/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Танцуй! HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/7336/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Окко Спорт HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/7337/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Eurosport 1 HD (CEE)
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/14335/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Eurosport 2 HD (CEE)
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/14334/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Be ON Edge live 1 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20870/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Be ON Edge live 2 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20871/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 1 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20881/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 2 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20882/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 3 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20883/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 4 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20884/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 5 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20885/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 6 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20886/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX SportCast live 7 HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20887/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BOX Be ON Edge HD
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20872/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4k Единоборства
+#EXTGRP:RU Спорт
+https://ch01.spr24.net/20910/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,HUSTLER HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/902/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,REDLIGHT HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/904/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Шалун HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/22401/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Strawberry HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/20787/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Clarity4K Angel XXX
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/20906/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,BCU Charm HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/20788/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,EXXXOTICA HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/901/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Vivid RED HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/19180/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Bang Bros UHD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29010/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Cum4k UHD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29029/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Tiny4k UHD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29106/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Babes HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29007/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Bang Bros HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29009/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Blacked HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29015/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Digital Desire HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29036/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Digital Playground HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29037/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Dorcel XXX HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29039/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Evil Angel HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29041/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Fake Taxi HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29043/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Hitzefrei HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29064/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Japan HDV
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29071/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MetArt HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29080/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Mia Khalifa HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29081/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,MYLF TV HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29084/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Nubiles TV HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29086/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Private TV HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/19184/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,SuperONE HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/22387/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Tushy HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29109/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Vixen HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29113/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Analized HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29004/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Extasy HD XXX
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/22461/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Little Asians HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29077/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,ox-ax HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29087/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,XY Max HD XXX
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/22459/mpegts?token=kPskxFZ8QhQbk3
+#EXTINF:0,Erox HD
+#EXTGRP:XXX Adult
+https://ch01.spr24.net/29040/mpegts?token=kPskxFZ8QhQbk3
+
